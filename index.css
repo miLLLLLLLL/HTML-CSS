@@ -1,0 +1,36 @@
+   @import url(style.css);
+
+
+   h1{
+        color: red;
+    }
+    .cafe{
+        color: green;
+    }
+
+    .header{
+        background-color: rgba(255, 0, 0, 0);
+        height:30px; 
+    }
+
+    .cafe{
+        height:480px; 
+        background-color: blue;
+    }
+
+    .rland{
+        height: 530px;
+        background-color: orange;
+    }
+
+    .spot{
+
+    }
+
+    .visited-review{
+
+    }
+
+    .blog{
+
+    }
